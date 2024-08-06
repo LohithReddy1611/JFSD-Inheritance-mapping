@@ -5,7 +5,10 @@ Inheritance mapping is a powerful feature in Hibernate that allows you to map Ja
 Types of Inheritance Mapping Strategies
 Hibernate supports several strategies for inheritance mapping, each with its own advantages and trade-offs:
 
-Table Per Class Hierarchy (Single Table Strategy):
-Table Per Subclass (Joined Strategy):
-Table Per Concrete Class (Table Per Class Strategy):
+Table Per Class Hierarchy (Single Table Strategy)
+
+Table Per Subclass (Joined Strategy)
+
+Table Per Concrete Class (Table Per Class Strategy)
+
 
